@@ -1,8 +1,8 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
 
-<h3>Varsha G</h3>
-<h3>212222230166</h3>
+<h3>NAME : Varsha G</h3>
+<h3>REG NO : 212222230166</h3>
 <h3>EX. NO : 2</h3>
 <h3>DATE: 16/09/2024</h3>
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
